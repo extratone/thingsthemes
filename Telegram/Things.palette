@@ -1,128 +1,129 @@
-isDark = 1
-tinted = 0
-name = Things
+name: Things
+shortname: Ik7tStJvGjSSe67d
+isDark: 1
+tinted: 0
 //Fallback for parameters which didn't define. Available values: day, dayClassic, dark, nightAccent
-parent = dark
-copyright = Brendy
-basicAccent = #cfab73
-background = #1a1a1a
-text = #ffffff
-grayText = #7e7e7e
-link = #cfab73
-accent = #cfab73
-redUI = #e96058
-greenUI = #67b231
-blackTransparent = #1a1a1a
-grayTransparent = #7e7e7e
-grayUI = #7e7e7e
-darkGrayText = #ffffff
-accentSelect = #ae8e5d
-selectText = #cfab73
-border = #262626
-grayBackground = #1f1f1f
-grayForeground = #454545
-grayIcon = #7e7e7e
-accentIcon = #cfab73
-badgeMuted = #7e7e7e
-badge = #cfab73
-indicatorColor = #cfab73
-selectMessage = #262626
-monospacedPre = #ffffff
-monospacedCode = #ffffff
-monospacedPreBubble_incoming = #cfab73
-monospacedPreBubble_outgoing = #ffffff
-monospacedCodeBubble_incoming = #cfab73
-monospacedCodeBubble_outgoing = #ffffff
-selectTextBubble_incoming = #363636
-selectTextBubble_outgoing = #8a6d3f
-bubbleBackground_incoming = #1f1f1f
-bubbleBorder_incoming = #1f1f1f
-bubbleBorder_outgoing = #ae8e5d
-grayTextBubble_incoming = #7e7e7e
-grayTextBubble_outgoing = #fdf1df
-grayIconBubble_incoming = #7e7e7e
-grayIconBubble_outgoing = #ffffff
-accentIconBubble_incoming = #7e7e7e
-accentIconBubble_outgoing = #ffffff
-linkBubble_incoming = #cfab73
-linkBubble_outgoing = #ffffff
-textBubble_incoming = #ffffff
-textBubble_outgoing = #ffffff
-selectMessageBubble = #7e7e7e
-fileActivityBackground = #2b2b2b
-fileActivityForeground = #ffffff
-fileActivityBackgroundBubble_incoming = #cfab73
-fileActivityBackgroundBubble_outgoing = #2b2b2b
-fileActivityForegroundBubble_incoming = #ffffff
-fileActivityForegroundBubble_outgoing = #ffffff
-waveformBackground = #2b2b2b
-waveformForeground = #cfab73
-waveformBackgroundBubble_incoming = #454545
-waveformBackgroundBubble_outgoing = #2b2b2b
-waveformForegroundBubble_incoming = #cfab73
-waveformForegroundBubble_outgoing = #ffffff
-webPreviewActivity = #cfab73
-webPreviewActivityBubble_incoming = #cfab73
-webPreviewActivityBubble_outgoing = #ffffff
-redBubble_incoming = #cfab73
-redBubble_outgoing = #1f1f1f
-greenBubble_incoming = #cfab73
-greenBubble_outgoing = #1f1f1f
-chatReplyTitle = #cfab73
-chatReplyTextEnabled = #ffffff
-chatReplyTextDisabled = #454545
-chatReplyTitleBubble_incoming = #cfab73
-chatReplyTitleBubble_outgoing = #ffffff
-chatReplyTextEnabledBubble_incoming = #ffffff
-chatReplyTextEnabledBubble_outgoing = #ffffff
-chatReplyTextDisabledBubble_incoming = #7e7e7e
-chatReplyTextDisabledBubble_outgoing = #ffffff
-groupPeerNameRed = #cfab73
-groupPeerNameOrange = #cfab73
-groupPeerNameViolet = #cfab73
-groupPeerNameGreen = #cfab73
-groupPeerNameCyan = #cfab73
-groupPeerNameLightBlue = #cfab73
-groupPeerNameBlue = #cfab73
-peerAvatarRedTop = #363636
-peerAvatarRedBottom = #363636
-peerAvatarOrangeTop = #363636
-peerAvatarOrangeBottom = #363636
-peerAvatarVioletTop = #363636
-peerAvatarVioletBottom = #363636
-peerAvatarGreenTop = #363636
-peerAvatarGreenBottom = #363636
-peerAvatarCyanTop = #363636
-peerAvatarCyanBottom = #363636
-peerAvatarBlueTop = #363636
-peerAvatarBlueBottom = #363636
-peerAvatarPinkTop = #363636
-peerAvatarPinkBottom = #363636
-bubbleBackgroundHighlight_incoming = #303030
-bubbleBackgroundHighlight_outgoing = #cfab73
-chatDateActive = #ffffff
-chatDateText = #7e7e7e
-revealAction_neutral1_background = #2b2b2b
-revealAction_neutral1_foreground = #ffffff
-revealAction_neutral2_background = #2b2b2b
-revealAction_neutral2_foreground = #ffffff
-revealAction_destructive_background = #e96058
-revealAction_destructive_foreground = #ffffff
-revealAction_constructive_background = #67b231
-revealAction_constructive_foreground = #ffffff
-revealAction_accent_background = #cfab73
-revealAction_accent_foreground = #ffffff
-revealAction_warning_background = #ff9500
-revealAction_warning_foreground = #ffffff
-revealAction_inactive_background = #2b2b2b
-revealAction_inactive_foreground = #7e7e7e
+parent: dark
+copyright: Brendy
+basicAccent: #68acfd
+background: #16191E
+text:#E2E4E9
+grayText: #8c9297
+link: #68acfd
+accent: #68acfd
+redUI: #FF326E
+greenUI: #2cc55e
+blackTransparent: #1d2129
+grayTransparent: #8c9297
+grayUI: #8c9297
+darkGrayText: #bdc0c5
+accentSelect: #cfab73
+selectText: #68acfd
+border: #1d2129
+grayBackground: #3A4350
+grayForeground: #2E3035
+grayIcon: #8c9297
+accentIcon: #68acfd
+badgeMuted: #8c9297
+badge: #68acfd
+indicatorColor: #68acfd
+selectMessage: #1d2129
+monospacedPre: #bdc0c5
+monospacedCode: #bdc0c5
+monospacedPreBubble_incoming: #68acfd
+monospacedPreBubble_outgoing: #bdc0c5
+monospacedCodeBubble_incoming: #68acfd
+monospacedCodeBubble_outgoing: #bdc0c5
+selectTextBubble_incoming: #363636
+selectTextBubble_outgoing: #8A6D3F
+bubbleBackground_incoming: #3A4350
+bubbleBorder_incoming: #3A4350
+bubbleBorder_outgoing: #cfab73
+grayTextBubble_incoming: #8c9297
+grayTextBubble_outgoing: #FDF1DF
+grayIconBubble_incoming: #8c9297
+grayIconBubble_outgoing: #bdc0c5
+accentIconBubble_incoming: #8c9297
+accentIconBubble_outgoing: #bdc0c5
+linkBubble_incoming: #68acfd
+linkBubble_outgoing: #bdc0c5
+textBubble_incoming: #bdc0c5
+textBubble_outgoing: #bdc0c5
+selectMessageBubble: #8c9297
+fileActivityBackground: #2B2B2B
+fileActivityForeground: #bdc0c5
+fileActivityBackgroundBubble_incoming: #68acfd
+fileActivityBackgroundBubble_outgoing: #2B2B2B
+fileActivityForegroundBubble_incoming: #bdc0c5
+fileActivityForegroundBubble_outgoing: #bdc0c5
+waveformBackground: #2B2B2B
+waveformForeground: #68acfd
+waveformBackgroundBubble_incoming: #2E3035
+waveformBackgroundBubble_outgoing: #2B2B2B
+waveformForegroundBubble_incoming: #68acfd
+waveformForegroundBubble_outgoing: #bdc0c5
+webPreviewActivity: #68acfd
+webPreviewActivityBubble_incoming: #68acfd
+webPreviewActivityBubble_outgoing: #bdc0c5
+redBubble_incoming: #68acfd
+redBubble_outgoing: #3A4350
+greenBubble_incoming: #68acfd
+greenBubble_outgoing: #3A4350
+chatReplyTitle: #68acfd
+chatReplyTextEnabled: #bdc0c5
+chatReplyTextDisabled: #2E3035
+chatReplyTitleBubble_incoming: #68acfd
+chatReplyTitleBubble_outgoing: #bdc0c5
+chatReplyTextEnabledBubble_incoming: #bdc0c5
+chatReplyTextEnabledBubble_outgoing: #bdc0c5
+chatReplyTextDisabledBubble_incoming: #8c9297
+chatReplyTextDisabledBubble_outgoing: #bdc0c5
+groupPeerNameRed: #68acfd
+groupPeerNameOrange: #68acfd
+groupPeerNameViolet: #68acfd
+groupPeerNameGreen: #68acfd
+groupPeerNameCyan: #68acfd
+groupPeerNameLightBlue: #68acfd
+groupPeerNameBlue: #68acfd
+peerAvatarRedTop: #363636
+peerAvatarRedBottom: #363636
+peerAvatarOrangeTop: #363636
+peerAvatarOrangeBottom: #363636
+peerAvatarVioletTop: #363636
+peerAvatarVioletBottom: #363636
+peerAvatarGreenTop: #363636
+peerAvatarGreenBottom: #363636
+peerAvatarCyanTop: #363636
+peerAvatarCyanBottom: #363636
+peerAvatarBlueTop: #363636
+peerAvatarBlueBottom: #363636
+peerAvatarPinkTop: #363636
+peerAvatarPinkBottom: #363636
+bubbleBackgroundHighlight_incoming: #303030
+bubbleBackgroundHighlight_outgoing: #68acfd
+chatDateActive: #bdc0c5
+chatDateText: #8c9297
+revealAction_neutral1_background: #2B2B2B
+revealAction_neutral1_foreground: #bdc0c5
+revealAction_neutral2_background: #2B2B2B
+revealAction_neutral2_foreground: #bdc0c5
+revealAction_destructive_background: #FF326E
+revealAction_destructive_foreground: #bdc0c5
+revealAction_constructive_background: #2cc55e
+revealAction_constructive_foreground: #bdc0c5
+revealAction_accent_background: #68acfd
+revealAction_accent_foreground: #bdc0c5
+revealAction_warning_background: #FF9500
+revealAction_warning_foreground: #bdc0c5
+revealAction_inactive_background: #2B2B2B
+revealAction_inactive_foreground: #8c9297
 //Parameter is usually using for minimalistic chat mode, but also works as fallback for bubbles if wallpaper not installed
-chatBackground = #151515
-listBackground = #1f1f1f
-listGrayText = #7e7e7e
-grayHighlight = #7e7e7e:0.08
-focusAnimationColor = #cfab73
-vibrant = #808080:0.10
-premium = #b93ff0
+chatBackground: #151515
+listBackground: #3A4350
+listGrayText: #8c9297
+grayHighlight: #8c929714
+focusAnimationColor: #68acfd
+vibrant: #8080801A
+premium: #B93FF0
 //Parameter only affects bubble chat mode. Available values: none, builtin, hexColor or url to cloud backgound like a t.me/bg/%slug%
-wallpaper = none
+wallpaper: none	
