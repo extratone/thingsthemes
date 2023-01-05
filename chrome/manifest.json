@@ -1,0 +1,72 @@
+{
+  "name": "Things",
+  "version": "1.0",
+  "description": "A mild dark theme inspired by Cultured Code's Things 3 Dark theme.",
+  "manifest_version": 3,
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_tab_background": "images/theme_tab_background.png"
+    },
+    "colors": {
+      "frame": [
+        20,
+        28,
+        36
+      ],
+      "toolbar": [
+        28,
+        28,
+        36
+      ],
+      "tab_text": [
+        223,
+        227,
+        232
+      ],
+      "tab_background_text": [
+        135,
+        145,
+        159
+      ],
+      "bookmark_text": [
+        226,
+        229,
+        235
+      ],
+      "ntp_background": [
+        25,
+        29,
+        34
+      ],
+      "ntp_text": [
+        226,
+        229,
+        235
+      ],
+      "ntp_link": [
+        27,
+        173,
+        247
+      ],
+      "button_background": [
+        55,
+        63,
+        75,
+        1
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0,
+        0,
+        0.44
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
