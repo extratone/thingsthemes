@@ -1,0 +1,340 @@
+/* GitHub theme */
+
+body {
+    font-family: sans-serif;
+    font-size: 1em;
+    line-height: 1.5;
+    --bezel-color: rgba(140, 170, 190, 0.08);
+    --border-color: rgb(216, 222, 228);
+}
+
+body.app-style-dark {
+    --bezel-color: rgba(165, 202, 255, 0.05);
+    --border-color: rgba(165, 202, 255, 0.12);
+}
+
+body > *:first-child,
+body > .toc:first-child + *,
+body > #MathJax_Message + .toc + *,
+body > #MathJax_Message + * {
+    margin-top: 0 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 24px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+h1 {
+    font-size: 1.75em;
+    padding-bottom: .3em;
+    border-bottom: 1px solid var(--border-color);
+    overflow: hidden;
+}
+
+h2 {
+    font-size: 1.5em;
+    padding-bottom: .3em;
+    border-bottom: 1px solid var(--border-color);
+    overflow: hidden;
+}
+
+h3 {
+    font-size: 1.25em;
+}
+
+h4 {
+    font-size: 1.125em;
+}
+
+h5 {
+    font-size: 1em;
+}
+
+h6 {
+    font-size: 1em;
+    color: rgb(87, 96, 106);
+}
+
+.app-style-dark h6 {
+    color: inherit;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+hr {
+    height: 0.25em;
+    padding: 0;
+    margin: 24px 0;
+    background-color: var(--border-color);
+    border: 0;
+    overflow: hidden;
+}
+
+ol,
+ul {
+    padding-left: 2em;
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+ol ol,
+ul ul,
+ol ul,
+ul ol {
+    margin-bottom: 0;
+}
+
+ul.task-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+dl {
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+dt {
+    font-weight: 700;
+}
+
+dd {
+    margin-bottom: 8px;
+    margin-left: 32px;
+}
+
+.footnote {
+    font-size: 87.5%;
+}
+
+.footnote p {
+    margin: 0;
+}
+
+blockquote {
+    padding: 0 1em;
+    border-left: .25em solid var(--border-color);
+    margin: 0 0 16px;
+}
+
+b,
+strong {
+    font-weight: 600;
+}
+
+dfn {
+    font-style: italic;
+}
+
+small {
+    font-size: 80%;
+}
+
+sub,
+sup {
+    position: relative;
+    font-size: 75%;
+    line-height: 0;
+    vertical-align: baseline;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+sup {
+    top: -0.5em;
+}
+
+a {
+    color: var(--accent-color);
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:not([href]):not([tabindex]) {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:not([href]):not([tabindex]):hover,
+a:not([href]):not([tabindex]):focus {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:not([href]):not([tabindex]):focus {
+    outline: 0;
+}
+
+pre,
+code,
+kbd,
+samp {
+    font-family: ui-monospace, monospace;
+}
+
+pre {
+    padding: 16px;
+    margin: 16px 0;
+    word-break: normal;
+    word-wrap: normal;
+    overflow: auto;
+    line-height: 1.45;
+    background-color: var(--bezel-color);
+    border-radius: 6px;
+}
+
+code {
+    padding: .2em .4em;
+    margin: 0;
+    border-radius: 6px;
+    background-color: rgba(175, 184, 193, 0.2);
+}
+
+.app-style-dark code {
+    background-color: rgba(110, 118, 129, 0.3);
+}
+
+pre,
+code {
+    font-size: 87.5%;
+}
+
+pre code {
+    word-break: normal;
+    font-size: inherit;
+}
+
+a > code {
+    color: inherit;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+mark {
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+table {
+    width: max-content;
+    max-width: 100%;
+    overflow: auto;
+    margin: 0 0 16px;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+table th {
+    font-weight: 600;
+}
+
+table th,
+table td {
+    padding: 6px 13px;
+    border: 1px solid rgb(208, 215, 222);
+}
+
+.app-style-dark table th,
+.app-style-dark table td {
+    border-color: var(--border-color);
+}
+
+table tr:nth-child(2n) {
+    background-color: var(--bezel-color);
+}
+
+.toc {
+    max-width: min(50%, 300px);
+    min-width: 150px;
+    float: right;
+    margin: 0 0 20px 20px;
+    padding: 6px 0;
+    border-radius: 6px;
+    border: 1px solid var(--border-color);
+}
+
+@media (max-width: 350px) {
+    .toc {
+        float: none;
+        margin: 1.5rem 0;
+        max-width: none;
+    }
+
+    .toc:first-child {
+        margin: 0 0 1.5rem;
+    }
+}
+
+.toc > ul {
+    margin: 0;
+}
+
+.toc ul {
+    list-style: none;
+    padding: 0;
+}
+
+.toc > ul > li:not(:last-child) {
+    padding-bottom: 5px;
+}
+
+.toc a {
+    display: block;
+    padding: 2px 10px;
+    margin: 0 5px;
+    border-radius: 4px;
+    color: inherit;
+    font-size: 90%;
+}
+
+.toc a:hover,
+.toc a:focus {
+    text-decoration: none;
+    background-color: rgba(140, 170, 190, 0.12);
+}
+
+.app-style-dark .toc a:hover,
+.app-style-dark .toc a:focus {
+    background-color: rgba(165, 202, 255, 0.09);
+}
+
+.toc ul ul a {
+    padding-left: 25px;
+    opacity: 0.85;
+}
+
+.toc ul ul ul a {
+    padding-left: 40px;
+}
+
+.toc ul ul ul ul a {
+    padding-left: 55px;
+}
+
+.toc ul ul ul ul ul a {
+    padding-left: 70px;
+}
+
+.toc ul ul ul ul ul ul a {
+    padding-left: 85px;
+}
