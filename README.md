@@ -8,8 +8,14 @@ I cannot seem to stop myself from trying to make color themes based on both the 
 
 [![Things Uysses - iPhone 12 Pro Max](/screens/UlyssesiPhone.png)](https://styles.ulysses.app/themes/things-nX9r)
 
+[![Things Uysses - iPad Pro 12.9"](/screens/UlyssesiPad.png)](https://styles.ulysses.app/themes/things-nX9r)
+
+[![Things Uysses - Mac](/screens/UlyssesMac.png)](https://styles.ulysses.app/themes/things-nX9r)
+
 ## Chrome
 
 - [**Chrome Web Store**](https://chrome.google.com/webstore/detail/things/dkelmapnanfhhbgfejmoliiiheegmcjh)
 
 [![Things Chrome](/screens/thingschrome.png)](https://chrome.google.com/webstore/detail/things/dkelmapnanfhhbgfejmoliiiheegmcjh)
+
+...and [more](https://github.com/extratone/thingsthemes)!
