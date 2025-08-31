@@ -1,0 +1,82 @@
+# We Make Things
+
+Based in Stuttgart, Cultured Code makes the award-winning productivity app THINGS for Mac, iPad, iPhone, Apple Watch, and Apple Vision Pro.
+
+Founded in 2004, the privately held company started out making software for web developers. In 2007 they changed course to focus on Things, and found success the following summer when they launched their 1.0 on the same day the App Store debuted—becoming one of the first 500 apps.
+
+Eighteen years later, the small development team of 12 continues to iterate on the product—now in its 3rd major version—shipping over 5 million units along the way, and winning many awards, including two Apple Design Awards.
+
+Press Contact
+Mick Payne
+marketing@culturedcode.com
+
+CEO & Co-Founder
+Werner Jainek
+
+Design & Co-Founder
+Christian Krämer
+
+
+## Pricing
+
+Things is sold separately for each platform:
+
+• Mac: $49.99 USD
+• iPad: $19.99 USD
+• iPhone & Watch: $9.99 USD
+• Vision Pro: $29.99 USD
+
+Things’ custom-built sync service (Things Cloud) is included at no extra cost. Users can create a free account from Things’ settings. There are no recurring fees.
+
+
+## Key Milestones
+
+• 2004: Company founded
+• 2007: First alpha release of Things for Mac
+• 2008: Things 1.0 release on the App Store
+• 2012: Things 2.0 release with cloud sync
+• 2017: Things 3.0 release with a major redesign and new features
+• 2020: Shipped units exceed 5 million
+
+
+## Awards
+
+• Apple Design Award 2017
+• Apple Design Award 2009
+• App Store Editors’ Choice
+• Macworld Best of Show Award
+• Macworld Editors’ Choice Award
+• Mac|Life Editors’ Choice Award
+• MacStories Selects Award: Best New Feature of 2023
+• MacStories Selects Award: Best App Update of 2018
+
+
+## Links
+
+App Store
+• Mac: https://culturedcode.com/things/mac/appstore/
+• iPad: https://culturedcode.com/things/ipad/appstore/
+• iPhone & Watch: https://culturedcode.com/things/iphone/appstore/
+• Vision: https://culturedcode.com/things/vision/appstore/
+
+Website
+• Blog: https://culturedcode.com/things/blog/
+• Newsletter: https://culturedcode.com/follow/
+• Starter Guide: https://culturedcode.com/things/guide/
+• What Customers Say: https://culturedcode.com/things/whatpeoplearesaying/
+
+Product Videos
+• Desktop-Class Productivity for iPad: https://youtube.com/watch?v=DSrEDdkBpvU
+• Things 3 Product Launch: https://youtube.com/watch?v=2R6o5t0VK_A
+• Things for Apple Watch: https://youtube.com/watch?v=Zmy0XsAlHLI
+
+---
+
+Cultured Code GmbH & Co. KG
+culturedcode.com
+
+x.com/culturedcode
+bsky.app/profile/things.app
+instagram.com/things.app
+threads.com/things.app
+mastodon.online/@things
